@@ -491,16 +491,9 @@ ESP32-Ambilight-HyperHDR/
 │   └── wled-configuration.md
 │
 ├── hyperhdr/
-│   ├── led-layout.json
-│   └── hyperhdr-configuration.md
-│
-├── images/
-│   ├── hardware-setup.jpg
-│   ├── led-rings.jpg
-│   └── hyperhdr-layout.png
-│
-└── demo/
-    └── demo-video.md
+    ├── led-layout.json
+    └── hyperhdr-configuration.md
+
 ```
 
 ## 📸 Project Media
@@ -552,7 +545,6 @@ The demonstration should show:
 **Pankaj Pandit**
 
 Electronics & Telecommunication Engineering  
-PCCOE, Pune
 
 ### Interests
 
