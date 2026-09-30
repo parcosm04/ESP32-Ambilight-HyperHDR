@@ -495,27 +495,6 @@ ESP32-Ambilight-HyperHDR/
     └── hyperhdr-configuration.md
 
 ```
-
-## 📸 Project Media
-
-Recommended media:
-
-- Final laptop Ambilight setup
-- Close-up of both LED rings
-- ESP32 and wiring
-- HyperHDR custom LED layout
-- Working movie demonstration
-
-After uploading images:
-
-```markdown
-![Hardware Setup](images/hardware-setup.jpg)
-
-![LED Rings](images/led-rings.jpg)
-
-![HyperHDR Layout](images/hyperhdr-layout.png)
-```
-
 ## 🎥 Demonstration
 
 The demonstration should show:
